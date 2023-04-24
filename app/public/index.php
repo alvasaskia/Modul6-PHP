@@ -18,7 +18,10 @@ $title = "Alvas Php-sida";
 </head>
 <body>
     <h1>
-        <?php echo "Hello wonderful world"; ?>
+        <?php
+        echo "Hello wonderful world";
+        ?>
     </h1>
+    <a href="/learn">LEARN</a>
 </body>
 </html>
